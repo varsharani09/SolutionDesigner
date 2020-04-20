@@ -30,7 +30,7 @@ twitter_username: VD075248
 github_username:  Varsharani
 
 # Build settings
-theme: jekyll-theme-hacker
+theme: minima
 plugins:
   - jekyll-feed
 
